@@ -18,7 +18,7 @@ These are not prioritized (yet).
 - [ ] Happiness is a byproduct
 - [ ] Hot soup and ice cubes
 - [ ] Morality is relative, not subjective
-- [ ] Plan for the best
+- [x] [Plan for the best][1]
 - [ ] The smart strategy is not the winning strategy
 - [ ] Sometimes you don't catch the exception
 - [ ] There are no realists
@@ -26,3 +26,5 @@ These are not prioritized (yet).
 - [ ] What if we didn't know it was hard?
 - [ ] What's an order of magnitude?
 - [ ] What you need to hear
+
+[1]: https://philosopherdeveloper.com/posts/plan-for-the-best.html
