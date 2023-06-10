@@ -17,9 +17,12 @@ These are not prioritized (yet).
 1. Fun is the whole point
 1. Happiness is a byproduct
 1. Hot soup and ice cubes
+1. Morality is relative, not subjective
+1. Plan for the best
 1. The smart strategy is not the winning strategy
 1. Sometimes you don't catch the exception
 1. There are no realists
 1. Trading off excellence
 1. What if we didn't know it was hard?
 1. What's an order of magnitude?
+1. What you need to hear
