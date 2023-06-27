@@ -16,7 +16,7 @@ These are not prioritized (yet).
 - [ ] Complexity reducers
 - [ ] Fun is the whole point
 - [ ] Happiness is a byproduct
-- [ ] Hot soup and ice cubes
+- [x] [Hot soup and ice cubes][2]
 - [ ] Morality is relative, not subjective
 - [x] [Plan for the best][1]
 - [ ] The smart strategy is not the winning strategy
@@ -28,3 +28,4 @@ These are not prioritized (yet).
 - [ ] What you need to hear
 
 [1]: https://philosopherdeveloper.com/posts/plan-for-the-best.html
+[2]: https://philosopherdeveloper.com/posts/ice-cubes-and-hot-soup.html
