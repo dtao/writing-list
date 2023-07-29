@@ -25,7 +25,8 @@ These are not prioritized (yet).
 - [ ] Trading off excellence
 - [ ] What if we didn't know it was hard?
 - [ ] What's an order of magnitude?
-- [ ] What you need to hear
+- [x] [What you need to hear][3]
 
 [1]: https://philosopherdeveloper.com/posts/plan-for-the-best.html
 [2]: https://philosopherdeveloper.com/posts/ice-cubes-and-hot-soup.html
+[3]: https://philosopherdeveloper.com/posts/what-you-need-to-hear.html
