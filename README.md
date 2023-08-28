@@ -10,7 +10,7 @@ actually start working through them.
 
 These are not prioritized (yet).
 
-- [ ] The 100-mile chainsaw
+- [x] [The 100-mile chainsaw][4]
 - [ ] Being genuine is efficient
 - [ ] Communication contracts*
 - [ ] Complexity reducers
@@ -30,3 +30,4 @@ These are not prioritized (yet).
 [1]: https://philosopherdeveloper.com/posts/plan-for-the-best.html
 [2]: https://philosopherdeveloper.com/posts/ice-cubes-and-hot-soup.html
 [3]: https://philosopherdeveloper.com/posts/what-you-need-to-hear.html
+[4]: https://philosopherdeveloper.com/posts/100-mile-chainsaw
